@@ -10,11 +10,6 @@ This repository contains a **Streamlit web application** for **image classificat
 https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset
 
 
-## Metric graph
-
-![image](https://github.com/user-attachments/assets/d2984d62-5fb1-4438-95e3-8b48503119cb)
-
-
 
 ## 🔧 Installation  
 
